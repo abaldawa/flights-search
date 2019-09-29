@@ -14,7 +14,7 @@ A node.js server to fetch unique flight schedules from third party REST services
 Once server is up and running there is 1 REST endpoint as below: 
 ## GET /flights
 
-Responds with:
+Responds with unique flight schedules merged from two remote services as below :
 
 ```javascript
 {
