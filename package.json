@@ -1,0 +1,28 @@
+{
+  "name": "flights-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server/src/server.js",
+    "test": "./node_modules/mocha/bin/mocha --recursive './server/test/' --mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abaldawa/flights-search.git"
+  },
+  "author": "Abhijit Baldawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abaldawa/flights-search/issues"
+  },
+  "homepage": "https://github.com/abaldawa/flights-search#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}

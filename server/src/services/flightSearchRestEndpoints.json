@@ -1,0 +1,10 @@
+{
+  "URL": {
+    "source1": "https://discovery-stub.comtravo.com/source1",
+    "source2": "https://discovery-stub.comtravo.com/source2"
+  },
+  "credentials": {
+    "username": "ct_interviewee",
+    "password": "supersecret"
+  }
+}

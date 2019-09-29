@@ -1,0 +1,7 @@
+###
+### mocha.opts
+###
+
+--require ./test/setup
+--ui bdd
+--timeout 20000
